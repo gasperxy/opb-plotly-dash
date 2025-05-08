@@ -1,0 +1,7 @@
+psycopg2-binary
+pandas
+dataclasses_json
+bottle
+bcrypt
+plotly
+dash
